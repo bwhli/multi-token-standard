@@ -15,7 +15,7 @@ You can find standard interface at [IRC-31](https://github.com/icon-project/IIPs
 Clone this project first, and setup a virtual environment.
 
 ```
-$ git clone git@github.com:sink772/multi-token-standard.git
+$ git clone https://github.com/sink772/multi-token-standard.git
 $ cd multi-token-standard
 $ virtualenv -p python3.7 .venv
 $ source .venv/bin/activate
